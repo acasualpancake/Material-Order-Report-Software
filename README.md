@@ -5,5 +5,5 @@ This project is a simple analytics software to get basic information about your 
 App release as web-application (Html, CSS, Javascript)</br>
 Package management with node.js</br>
 Project organizing and management with Jira.</br>
-Development with typescript.</br>
 Unit testing with Mocha.</br>
+Development with Javascript and React.</br>
