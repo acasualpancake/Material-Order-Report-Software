@@ -7,7 +7,7 @@ import generalStyles from './GeneralView.module.css';
 // Functions
 const content = () => {
     // TODO: Add contents
-    return <p>Hello World!</p>;
+    return <p>Hello World! - Orders</p>;
 }
 
 // Component export

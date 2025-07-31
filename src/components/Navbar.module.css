@@ -1,6 +1,31 @@
 .navbar {
-    width: 100%;
-    height: 5%;
-    padding: 10px;
-    background-color: brown;
+  height: 50px;
+  background-color: #333;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar li {
+  margin: 0 5px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 0 8px;
+  height: 100%;
+  transition: background-color 0.2s ease;
+  font-size: larger;
+}
+
+.navbar li:hover {
+  background-color: #888;
+  border-radius: 4px;
 }
