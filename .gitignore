@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+
+# Production build
+dist/
+
+# Optional: local dev server logs
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Optional: environment variables
+.env
+.env.*.local
+
+# macOS system files
+.DS_Store
+
+# VSCode settings (optional, if you don't want them in Git)
+.vscode/
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Linux files
+*.swp
+
+# Local IDE settings (optional)
+.idea/
