@@ -1,4 +1,6 @@
 # Material Order Report Software
+> This project was paused.
+
 This project is a simple analytics software to get basic information about your logistics datasets. I decided to make it a web application. The reason for this is defined in the IT-security policies of the organisation the project was developed for.
 
 ## Tech Stack
